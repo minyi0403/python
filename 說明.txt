@@ -1,0 +1,19 @@
+檔案用途:
+Data_2019.zip: 存放Data_2019.txt(測站的觀測資料)
+2019_monthly_average_humidity.py : 從Data_2019.txt讀取濕度資料，將各月份平均濕度做成折線圖。
+2019_monthly_average_pressure.py : 從Data_2019.txt讀取壓力資料，將各月份平均壓力做成折線圖。
+2019_monthly_average_temperature.py : 從Data_2019.txt讀取溫度資料，將各月份平均溫度做成折線圖。
+2019_monthly_average_windspeed.py : 從Data_2019.txt讀取風速資料，將各月份平均風速做成折線圖。
+2019_monthly_rain.py : 從Data_2019.txt讀取雨量資料，將各月份總雨量做成長條圖。
+max_rain.py : 從Data_2019.txt讀取雨量資料，找整年最大總雨量(每小時)的時間及雨量值。
+max_temperature.py : 從Data_2019.txt讀取溫度資料，找整年最高溫度的時間及溫度值。
+min_pressure.py : 從Data_2019.txt讀取壓力資料，找整年最大壓力的時間及壓力值。
+測站資料分析.docx : 整理所有得到的觀測資料圖並簡單描述趨勢及原因。
+
+注意: 
+若要實際使用上列程式碼，必須注意程式碼內讀取Data_2019.txt的路徑是否正確。
+
+
+
+
+ 
