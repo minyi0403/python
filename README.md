@@ -15,7 +15,8 @@ Codepen連結: https://codepen.io/minyi0403/pen/yLMaLrm
 Codepen連結: https://codepen.io/minyi0403/pen/mdWwGar  
 互動功能:  
 (1)     按navbar右側的揮手(圖示): 會透過使用RANDOM USER GENERATOR網站上的API讀取隨機資料，再將結果呈現出來，可重複點擊，更換結果  
-(2)     按email圖示: 顯示email內容  
+(2)     
+        按email圖示: 顯示email內容  
         按address圖示:顯示address內容  
         按phone圖示:顯示phon內容  
 (3)     重複點擊同個圖示，顯示的是name內容  
